@@ -24,6 +24,8 @@
    Case 4
     PrintN("I Here now crown thee!")
 	PrintN( "Ser " + Name + "Of House Frienzone")
+    PrintN("I Hereby knight thee!")
+	PrintN( "into my Friendzone")
    Case 5
      PrintN("I don't think we should spoil a good frinedship")
      Delay(1500)
